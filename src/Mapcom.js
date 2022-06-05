@@ -35,10 +35,7 @@ const [lat,setlat] = useState(17.4121531)
 
                 console.log(lat)
                 console.log(long)
-
-               
-
-
+                
             },
             (error) => {
                 // See error code charts below.
